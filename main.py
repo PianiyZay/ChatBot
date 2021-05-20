@@ -1,4 +1,5 @@
 from random import randint
+import telebot
 
 db_soup = [
     dict(name='Борщ', рецепт='Какой-то рецепт'),
